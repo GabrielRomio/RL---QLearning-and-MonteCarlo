@@ -1,4 +1,4 @@
-# Reinforcement Learning - QLearning vs MonteCarlo
+# Reinforcement Learning - QLearning and MonteCarlo
 
 This project consists of the implementation and analysis of Reinforcement Learning algorithms based on the Monte Carlo and Q-Learning methods applied to the Gymnasium FrozenLake environment. The algorithms were developed and implemented in the Python language. The performance of these methods was evaluated when applied to different environment configurations, as well as with variations in learning parameters.
 
